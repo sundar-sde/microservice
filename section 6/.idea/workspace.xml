@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca69ce92-2883-4338-81e2-ce92b77ecc34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../section 4/accounts/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section 4/accounts/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section 4/accounts/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../section 4/accounts/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section 4/cards/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../section 4/cards/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section 4/loans/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../section 4/loans/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/controller/LoansController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/controller/LoansController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/dto/ErrorResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/dto/ErrorResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/dto/LoansDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/dto/LoansDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/dto/ResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/dto/ResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/entity/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/entity/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/entity/Loans.class" beforeDir="false" afterPath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/entity/Loans.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/service/impl/LoansServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../section 4/loans/target/classes/com/eazybytes/loans/service/impl/LoansServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3Dcj1OxSRau5XxHgUX1EVUwyzVj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccountsApplication.executor": "Run",
+    "Application.CardsApplication.executor": "Run",
+    "Application.LoansApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/microservices/section 6/v2-spring-cloud-config"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca69ce92-2883-4338-81e2-ce92b77ecc34" name="Changes" comment="" />
+      <created>1778588037078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778588037078</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+server:
+  port: 8083
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driver: org.h2.driver
+    username: ms
+    password: ''
+  h2:
+    console:
+      enabled: true
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  profiles:
+    active:
+      - "qa"
+  config:
+    import:
+      - "application_qa.yml"
+      - "application_prod.yml"
+
+
+
+accounts:
+  message: "Welcome to Bank accounts related API"
+  contactDetails:
+    name: "sundar"
+    email: "sundar@gmail.com"
+  onCallSupport:
+    - "(91)2324234343"
+    - "(91)2322434343"

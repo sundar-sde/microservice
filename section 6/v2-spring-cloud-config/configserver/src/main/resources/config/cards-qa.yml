@@ -1,0 +1,9 @@
+
+cards:
+  message: "Welcome to Bank card related api qa"
+  contactDetails:
+    name: "sundar"
+    email: "sundar@gmail.com"
+  onCallSupport:
+    - "(91)9472429747"
+    - "(91)9274238293"

@@ -1,0 +1,9 @@
+
+accounts:
+  message: "Welcome to Bank accounts related API"
+  contactDetails:
+    name: "sundar"
+    email: "sundar@gmail.com"
+  onCallSupport:
+    - "(91)2324234343"
+    - "(91)2322434343"

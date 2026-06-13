@@ -1,0 +1,9 @@
+
+cards:
+  message: "Welcome to Bank loan related api"
+  contactDetails:
+    name: "sundar"
+    email: "sundar@gmail.com"
+  onCallSupport:
+    - "(91)9472429747"
+    - "(91)9274238293"
